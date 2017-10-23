@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PatternBuilder", "PatternBuilder.vcxproj", "{9BDE3DC2-AE2B-4B02-B6E5-640C2A695859}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PatternBuilder", "PatternBuilder\PatternBuilder.vcxproj", "{9BDE3DC2-AE2B-4B02-B6E5-640C2A695859}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
