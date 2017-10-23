@@ -1,2 +1,2 @@
 # PatternBuilder
-Build patter with mask
+Builds masked pattern from massive of similar patterns
